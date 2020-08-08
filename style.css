@@ -1,0 +1,47 @@
+body{    
+    background-color: lightgreen;
+}
+
+.pricipal {
+    margin: auto;
+    padding: 15px;
+    border: 1px solid black;
+    border-bottom: none;
+    width: 320px;
+    height: 20px;
+    display: block;
+    background-color: white;
+}
+
+.modal {
+    margin: auto;
+    padding: 15px;
+    border: 1px solid black;
+    border-bottom: none;
+    width: 320px;
+    height: 40px;
+    display: block;
+    background-color: white
+}
+
+.bt {
+    margin: auto;
+    padding: 15px;
+    border: 1px solid black;
+    border-bottom: none;
+    width: 320px;
+    height: 20px;
+    display: block;
+    background-color: white
+}
+
+.btn {
+    background-color: green;
+    margin-left: 215px;
+    margin-top: 5px;
+    font-size: 15px;
+    display: block;
+    width: 100px;
+    height: 30px;
+    color:white;
+}
