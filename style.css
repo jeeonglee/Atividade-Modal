@@ -1,47 +1,33 @@
 body{    
-    background-color: lightgreen;
-}
-
-.pricipal {
-    margin: auto;
-    padding: 15px;
-    border: 1px solid black;
-    border-bottom: none;
-    width: 320px;
-    height: 20px;
-    display: block;
-    background-color: white;
+    background-color: lightblue;
 }
 
 .modal {
-    margin: auto;
-    padding: 15px;
+    background: white;
+    width: 350px;
     border: 1px solid black;
-    border-bottom: none;
-    width: 320px;
-    height: 40px;
-    display: block;
-    background-color: white
+    margin: auto;
 }
 
-.bt {
-    margin: auto;
-    padding: 15px;
-    border: 1px solid black;
-    border-bottom: none;
-    width: 320px;
-    height: 20px;
-    display: block;
-    background-color: white
+.modal-header {
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+
+.modal-main {
+    padding: 20px
+}
+
+.modal-footer {
+    border-top: 1px solid black;
+    padding: 20px;
+    text-align: right;
 }
 
 .btn {
+    color: lightgreen;
+    font-weight: bold;
+    border: 1px solid lightgreen;
     background-color: green;
-    margin-left: 215px;
-    margin-top: 5px;
-    font-size: 15px;
-    display: block;
-    width: 100px;
-    height: 30px;
-    color:white;
+    padding: 7px 20px;
 }
